@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,18.2.1,18.2.2,18.2.3,18.3.1,18.3.2,18.3.3,,,
+2018-06-30,LME,LMEC_1,AverageInQuarter,,47.31%,66.67%,,40.32%,65.54%,,,
+2018-06-30,LME,LMEC_1,PeakInQuarter,,48.32%,67.02%,,41.36%,66.62%,,,
+2018-06-30,LPM,LMEC_1,AverageInQuarter,,,,,,,,,
+2018-06-30,LPM,LMEC_1,PeakInQuarter,,,,,,,,,

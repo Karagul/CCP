@@ -1,0 +1,13 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Currency,4_1_1,4_1_2,4_1_3,4_1_4,4_1_5,4_1_6,4_1_7,4_1_8,4_1_9,4_1_10,4_2_1,4_4_1,4_4_2,4_4_4,4_4_8,5_1_1,5_2_1,5_3_1,5_3_2,5_3_3,5_3_4,6_3_1,6_4_1,6_4_2,6_4_3,6_4_4,6_4_5,6_4_6,6_4_7,6_4_8,6_4_9,6_4_10,6_4_11,6_4_12,6_4_13,6_4_14,6_4_15,6_5_1_1,6_5_1_2,6_5_1_3,6_5_2,6_5_3,6_5_4,6_5_5,6_6_1,6_7_1,6_8_1,7_1_1,7_1_10,7_1_11,7_2_1,7_3_2,12_1_1,12_1_2,12_1_3,12_2_1,12_2_2,12_2_3,13_1_1,13_1_2,13_1_3_1,13_1_3_2,13_1_4,14_1_1,14_1_2,14_1_3,14_1_4,15_1_1,15_1_2,15_2_1,15_2_2,15_2_3,15_2_4,15_2_5,15_2_6,15_2_7,15_3_1,15_3_2,16_1_1,16_1_2,16_2_1,16_2_2,16_2_3,16_2_4,16_2_5,16_2_6,16_2_7,16_2_9,16_2_10,16_2_11,16_2_12,16_2_13,16_2_14,16_2_16,16_2_17,16_2_18,16_2_19,16_2_20,16_3_1,16_3_2,17_1_1,17_2_1,17_4_1,18_1_1_1,18_1_1_2,18_1_1_3,18_1_2_1,18_1_2_2,18_1_2_3,18_1_2_4,18_1_3_1,18_1_3_2,18_4_1,18_4_2,18_4_3,19_1_1,19_1_2,19_1_3_1,19_1_3_2,19_1_4_1,19_1_4_2
+2016-09-30,Default Fund,ICEU_CDS,EUR,22245951.24,22245951.24,0.00,1039176314.05,1059575724.95,0.00,0.00,1039176314.05,"See Part 910 (Powers of Assessment: CDS):
+
+https://www.theice.com/publicdocs/clear_europe/rulebooks/rules/Clearing_Rules.pdf",0.00,124128906.54,Cover 2,"5-days for House 
+7-days for Client",0,0,"See the List of Permitted Cover:
+
+https://www.theice.com/publicdocs/clear_europe/list-of-permitted-covers.pdf","See the List of Permitted Cover:
+
+https://www.theice.com/publicdocs/clear_europe/list-of-permitted-covers.pdf
+
+Also see Part 14 of the Finance Procedures (Guaranty Fund Parameters And Restrictions):
+
+https://www.theice.com/publicdocs/clear_europe/rulebooks/procedures/Finance_Procedures.pdf",99.90%,2 days,360 days,5,,Scenario-Based Approach and Monte Carlo Simulation VaR, 2009-07-30,ICE CDS , 2009-07-30,99.50%, 2009-07-30,"April 1, 2007 onwards", 2009-07-30,Weighting applied to historical data p=0.985.,,5-day for House. 7-day for Client, 2009-07-30,,Bi-Monthly, 2009-07-30,1,Once per day,Prior to 9 a.m. on the next day,7273,99.99%,1305217.00,1305217.00,57090134.05,284114886.42,475550640.85,Cover 2,,Does not Exist,0.00,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46.40%,53.60%,0.00%,0.00%,357730.00,138756.00,838038.00,235507.00,493521.00,31675675.00,31166758.00,Non-Cash collateral is not recorded on CCP's Balance Sheet,NA,,,3438714694.12,1030428517.81,65.61%,0.00%,0.00%,65.44%,0.17%,0.00%,0.00%,3.71,7.64%,26.75%,0.00%,0.00%,0.00%,62.71,0,20.00%,0,34.39%,NA,NA,99.90%,99.99%,2 Hours,22,0,0,0,0,22,1 (European Broker Dealer),11,11,55.16%,NA,NA,Not available,8,100.00%,100.00%,NA,NA

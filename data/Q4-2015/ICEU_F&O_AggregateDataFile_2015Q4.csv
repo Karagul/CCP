@@ -1,0 +1,30 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Currency,4.1.1,4.1.2,4.1.3,4.1.4,4.1.5,4.1.6,4.1.7,4.1.8,4.1.9,4.1.10,4.2.1,4.4.1,4.4.2,4.4.4,4.4.8,5.1.1,5.2.1,5.3.1,5.3.2,5.3.3,5.3.4,6.3.1,6.4.1,6.4.2,6.4.3,6.4.4,6.4.5,6.4.6,6.4.7,6.4.8,6.4.9,6.4.10,6.4.11,6.4.12,6.4.13,6.4.14,6.4.15,6.5.1.1,6.5.1.2,6.5.1.3,6.5.2,6.5.3,6.5.4,6.5.5,6.6.1,6.7.1,6.8.1,7.1.1,7.1.10,7.1.11,7.2.1,7.3.2,12.1.1,12.1.2,12.1.3,12.2.1,12.2.2,12.2.3,13.1.1,13.1.2,13.1.3.1,13.1.3.2,13.1.4,14.1.1,14.1.2,14.1.3,14.1.4,15.1.1,15.1.2,15.2.1,15.2.2,15.2.3,15.2.4,15.2.5,15.2.6,15.2.7,15.3.1,15.3.2,16.1.1,16.1.2,16.2.1,16.2.2,16.2.3,16.2.4,16.2.5,16.2.6,16.2.7,16.2.9,16.2.10,16.2.11,16.2.12,16.2.13,16.2.14,16.2.16,16.2.17,16.2.18,16.2.19,16.2.20,16.3.1,16.3.2,17.1.1,17.2.1,17.4.1,18.1.1.1,18.1.1.2,18.1.1.3,18.1.2.1,18.1.2.2,18.1.2.3,18.1.2.4,18.1.3.1,18.1.3.2,18.4.1,18.4.2,18.4.3,19.1.1,19.1.2,19.1.3.1,19.1.3.2,19.1.4.1,19.1.4.2
+2015-12-31,Default Fund,ICEU_F&O,USD,100000000.00,0.00,0.00,1858591525.00,1911081546.00,0.00,0.00,3717183050.00,"See Part 909 (Powers of Assessment: F&O):
+
+https://www.theice.com/publicdocs/clear_europe/rulebooks/rules/Clearing_Rules.pdf",0.00,17915208.00,Cover 2 once EMIR authorised,2,0,0,"See the List of Permitted Cover:
+
+https://www.theice.com/publicdocs/clear_europe/list-of-permitted-covers.pdf","See the List of Permitted Cover:
+
+https://www.theice.com/publicdocs/clear_europe/list-of-permitted-covers.pdf
+
+Also see Part 14 of the Finance Procedures (Guaranty Fund Parameters And Restrictions):
+
+https://www.theice.com/publicdocs/clear_europe/rulebooks/procedures/Finance_Procedures.pdf",99.9,2 days,360,3,"See the following subsections:
+Margin Rates: Energy
+Margin Rates: Financials & Soft Commodities
+
+https://www.theice.com/clear-europe/risk-management","Filtered Historical Simulation
+Parametric VaR
+Historical Simulation",2008-11-30,SPAN,2008-11-30,99%,2008-11-30,"Energy - Filtered Historical Simulation - 250, 500 and 1,000 days
+
+Financials & Softs - Parametric VaR - 60, 250 and 525 days
+
+Financials & Softs - Historical Simulationÿ- 100, 250 and 525 days",2015-11-08,All risk models used by ICE Clear Europe are reviewed and subject to a formal model governance process that requires external independent validation. The suitability of all models is reviewed on an annual basis. Any material change to an existing model and all new models are also subject to independent model validation.,See Note at 6.4.9,2-day (Please note that the 2-day MPOR for Energy contracts will apply from the point of EMIR authorization onwards.),"Energy:  See 6.4.11. 
+
+Financials & Softs - 1 July 2013.","See the following subsections:
+Margin Rates: Energy
+Margin Rates: Financials & Soft Commodities
+
+https://www.theice.com/clear-europe/risk-management",Bi-Monthly.  Plus ad hoc reviews where necessary,"Energy - 2008-11-30
+
+Financials & Softs - 2013-07-01",6,"Daily, each business day",9:00 a.m. on the following business day,20146,99.97%,5983269.55,1467434.40,1030848533.00,2395085312.00,4735734333.00,Cover 2,,Does not Exist,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0%,100%,0%,0%,357730.00,138756.00,838038.00,235507.00,493521.00,31675675.00,31166758.00,Non-Cash collateral is not recorded on CCP's Balance Sheet,NA,,,23317554396.00,1679994365.00,73.13%,,,72.85%,0.28%,0,0,1.86 days,1.93%,24.94%,0,0,0,41.07 days,,20%,0,26.87%,0,0,99.90%,99.99%,2 Hours,73,0,0,0,0,27,"46 (4 Corporate, 15 European Broker Dealer, 27 US FCM)",32,41,NA,27.69%,45.96%,Not available,62,56.14%,45.49%,72.42%,65.55%

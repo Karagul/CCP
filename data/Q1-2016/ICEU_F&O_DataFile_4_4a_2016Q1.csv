@@ -1,0 +1,3 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,4.4.3,4.4.6,4.4.7,4.4.10
+2016-03-31,DefaultFund,ICEU_F&O,PeakDayAmountInPast9Months,USD,1185206043.00,1842596.71,1822897038.00,1842596.71
+2016-03-31,DefaultFund,ICEU_F&O,MeanAverageOverPrevious9Months,USD,1076367215.00,546810.21,1572116105.00,624925.96

@@ -1,0 +1,12 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,23.1.1,23.1.2,23.2.1,23.2.2,23.2.3,23.2.4
+30/06/2018,Default fund,LME,ETD Forward,USD,"1,603,802.00","144,537,329,472.50","133,980,542,007.74",Commodity,Forward,"AAD, AHD, CAD, COD, MOD, NAD, NID, PBD, SND, ZSD"
+30/06/2018,Default fund,LME,ETD Option,USD,"65,715.00","126,514,663.02","395,353,861.83",Commodity,Option,"AHD, CAD, NAD, NID, PBD, SND, ZSD"
+30/06/2018,Default fund,LME,ETD Option,EUR,9,"44,605.63","562,700.47",Commodity,Option,"AHD, CAD, NAD, NID, PBD, SND, ZSD"
+30/06/2018,Default fund,LME,ETD Option,GBP,0,0,0,Commodity,Option,"AHD, CAD, NAD, NID, PBD, SND, ZSD"
+30/06/2018,Default fund,LME,ETD Forward,EUR,"4,116.00","367,085,550.78","2,740,468,680.47",Commodity,Forward,"AAE, AHE, CAE, NAE, NIE, PBE, SNE, ZSE"
+30/06/2018,Default fund,LME,ETD Forward,JPY,"1,802.00","152,167,394.04","1,282,170,306.48",Commodity,Forward,"AHY, CAY, NIY, PBY, SNY, ZSY"
+30/06/2018,Default fund,LME,ETD TAPO,USD,"2,823.00","4,566,501.20","53,862,813.24",Commodity,TAPO,"AHD, CAD, NID, PBD, ZSD"
+30/06/2018,Default fund,LME,ETD Swap,USD,318,"45,921,639.45","40,332,344.50",Commodity,Swap,"OAD, OCD, OND, OPD, OSD, OZD"
+30/06/2018,Default fund,LME,ETD Forward,GBP,113,"11,197,101.42","110,613,112.60",Commodity,Forward,"AHS, CAS, NAS, NIS, PBS, SNS, ZSS"
+30/06/2018,Default fund,LME,ETD Future,USD,"3,708.00","13,171,329.98","32,775,915.00",Commodity,Future,"SCD, SRD"
+30/06/2018,Default fund,LPM,ETD Future,USD,"6,793.00","825,084,966.33","3,722,667,760.00",Commodity,Future,"AUD,AGD"

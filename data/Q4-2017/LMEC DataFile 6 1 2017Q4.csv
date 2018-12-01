@@ -1,0 +1,10 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,6.1.1
+2017-12-31,CCP,LMEC_1,Client_Net,USD,6354904107.00
+2017-12-31,CCP,LMEC_1,House_Net,USD,2003914094.00
+2017-12-31,CCP,LMEC_1,Total,USD,8358818201.00
+2017-12-31,Default fund,LME,Client_Net,USD,6228623947.00
+2017-12-31,Default fund,LME,House_Net,USD,1885736494.00
+2017-12-31,Default fund,LME,Total,USD,8114360441.00
+2017-12-31,Default fund,LPM,Client_Net,USD,126280160.00
+2017-12-31,Default fund,LPM,House_Net,USD,118177600.00
+2017-12-31,Default fund,LPM,Total,USD,244457760.00

@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,4_4_3,4_4_6,4_4_7,4_4_10
+2018-06-29,DefaultFund,ICEU_F&O,PeakDayAmountInPast12Months,USD,2123999121.92,90795867.71,2582105086.35,118392893.12
+2018-06-29,DefaultFund,ICEU_F&O,MeanAverageOverPrevious12Months,USD,1609039868.23,13648309.46,1904392088.75,15354348.14
+2018-06-29,DefaultFund,ICEU_CDS,PeakDayAmountInPast12Months,EUR,25745376.78,0.00,25791339.00,0.00
+2018-06-29,DefaultFund,ICEU_CDS,MeanAverageOverPrevious12Months,EUR,2600864.45,0.00,2842484.59,0.00

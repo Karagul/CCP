@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency, 7.3.1 , 7.3.4 , 7.3.5 
+2016-03-31,DefaultFund,ICEU_F&O,SameDayPayment_Total,USD,0.00,973715254.00,0.00
+2016-03-31,CCP,ICEU,SameDayPayment_Total,USD,3048682047.00,0.00,2339818236.00
+2016-03-31,CCP,ICEU,SameDayPayment_Total,GBP,0.00,0.00,1825310530.00
+2016-03-31,CCP,ICEU,SameDayPayment_Total,EUR,0.00,0.00,1756113143.00

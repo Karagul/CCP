@@ -1,0 +1,9 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,17_3_1
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure1(HH:MI:SS),00:15:00
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure2(HH:MI:SS),01:00:00
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure3(HH:MI:SS),00:25:00
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure4(HH:MI:SS),00:40:00
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure5(HH:MI:SS),01:00:00
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure6(HH:MI:SS),00:15:00
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure7(HH:MI:SS),00:30:00
+2016-12-30,DefaultFund,ICNL_F&O,DurationofFailure8(HH:MI:SS),01:30:00

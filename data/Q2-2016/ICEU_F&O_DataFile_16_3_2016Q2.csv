@@ -1,0 +1,7 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,16.3.3,16.3.4
+2016-06-30,DefaultFund,ICEU_F&O,ON_1D,USD,0.00,0.00
+2016-06-30,DefaultFund,ICEU_F&O,1D_1W,USD,0.00,0.00
+2016-06-30,DefaultFund,ICEU_F&O,1W_1M,USD,0.00,0.00
+2016-06-30,DefaultFund,ICEU_F&O,1M_1Y,USD,0.00,0.00
+2016-06-30,DefaultFund,ICEU_F&O,1Y_2Y,USD,0.00,0.00
+2016-06-30,DefaultFund,ICEU_F&O,2Y+,USD,0.00,0.00

@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,4.4.3,4.4.6,4.4.7,4.4.10,
+2016-12-31,CCP,LMEC_1,PeakDayAmountInPast12Months,USD,356561375.00,682.00,544385963.00,682.00,
+2016-12-31,CCP,LMEC_1,MeanAverageOverPrevious12Months,USD,105641114.49,682.00,173328771.00,682.00,
+,,,,,,,,,
+,,,,,,,,,

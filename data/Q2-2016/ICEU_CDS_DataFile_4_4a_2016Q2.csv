@@ -1,0 +1,3 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,4.4.3,4.4.6,4.4.7,4.4.10
+2016-06-30,DefaultFund,ICEU_CDS,PeakDayAmountInPast12Months,EUR,128498303.00,1305217.00,160782997.00,1305217.00
+2016-06-30,DefaultFund,ICEU_CDS,MeanAverageOverPrevious12Months,EUR,46783899.71,1305217.00,62273368.09,1305217.00

@@ -1,0 +1,4 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,6.1.1
+2017-03-31,CCP,LMEC_1,Client_Net,USD,6344246779.00
+2017-03-31,CCP,LMEC_1,House_Net,USD,2175322362.00
+2017-03-31,CCP,LMEC_1,Total,USD,8519569141.00

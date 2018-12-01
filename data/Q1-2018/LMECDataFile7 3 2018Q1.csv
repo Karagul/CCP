@@ -1,0 +1,9 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,7.3.1,7.3.4,7.3.5
+2018-03-31, CCP , LMEC_1 , SameDayPayment_Total , USD ,961316946.33,,961316946.33
+2018-03-31, CCP , LMEC_1 , IntraDayPayment_Total , USD ,,,
+2018-03-31, CCP , LMEC_1 , MultiDayPayment_Total , USD ,2103053203.28,,2103053203.28
+2018-03-31, CCP , LMEC_1 , SameDayPayment , USD ,961316946.33,,961316946.33
+2018-03-31, CCP , LMEC_1 , IntraDayPayment , USD ,,,
+2018-03-31, CCP , LMEC_1 , MultiDayPayment , USD ,2103053203.28,,2103053203.28
+2018-03-31, Default fund , LME , SameDayPayment , USD ,,1101232255.73,
+2018-03-31, Default fund , LPM , SameDayPayment , USD ,,792973105.00,

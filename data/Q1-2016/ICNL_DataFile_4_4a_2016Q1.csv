@@ -1,0 +1,3 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,4.4.3,4.4.6,4.4.7,4.4.10
+2016-03-31,CCP,ICNL_F&O,PeakDayAmountInPast12Months,EUR,44974857.00,0.00,52348239.00,0.00
+2016-03-31,CCP,ICNL_F&O,MeanAverageOverPrevious12Months,EUR ,4315795.00,0.00,12947384.00,0.00

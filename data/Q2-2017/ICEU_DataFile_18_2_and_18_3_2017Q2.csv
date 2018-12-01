@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,18_2_1,18_2_2,18_2_3,18_3_1,18_3_2,18_3_3
+2017-06-30,DefaultFund,ICEU_F&O,AverageInQuarter,,29.30%,51.72%,,36.37%,54.99%
+2017-06-30,DefaultFund,ICEU_F&O,PeakInQuarter,,30.26%,53.02%,,37.66%,56.80%
+2017-06-30,DefaultFund,ICEU_CDS,AverageInQuarter,51.02%,,,47.88%,,
+2017-06-30,DefaultFund,ICEU_CDS,PeakInQuarter,51.29%,,,51.45%,,

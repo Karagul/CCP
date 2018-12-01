@@ -1,0 +1,6 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,System,Description,17.3.1
+2016-06-30,CCP,ICEU,PTMS,DurationofFailure (HH:MI:SS),0:05:00
+2016-06-30,CCP,ICEU,MFT,DurationofFailure (HH:MI:SS),0:03:00
+2016-06-30,CCP,ICEU,ECS,DurationofFailure (HH:MI:SS),0:08:00
+2016-06-30,CCP,ICEU,ACT,DurationofFailure (HH:MI:SS),0:00:00
+2016-06-30,CCP,ICEU,MQ,DurationofFailure (HH:MI:SS),0:00:00

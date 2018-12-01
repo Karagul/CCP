@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,6.1.1
+2015-12-31,CCP,ICNL_F&O,House_Net,EUR,14328007.00
+2015-12-31,CCP,ICNL_F&O,Client_Gross,EUR,0.00
+2015-12-31,CCP,ICNL_F&O,Client_Net,EUR,209466189.00
+2015-12-31,CCP,ICNL_F&O,Total,EUR,223794196.00

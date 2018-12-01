@@ -1,0 +1,4 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,7_3_3,7_3_7
+2018-03-29,CCP,ICEU,AmountExceeded,EUR,0.00,0.00
+2018-03-29,CCP,ICEU,AmountExceeded,GBP,0.00,0.00
+2018-03-29,CCP,ICEU,AmountExceeded,USD,0.00,0.00

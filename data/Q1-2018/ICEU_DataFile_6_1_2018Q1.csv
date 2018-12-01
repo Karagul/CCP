@@ -1,0 +1,9 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,6_1_1
+2018-03-29,Default Fund,ICEU_F&O,House_Net,USD,5784069963.56
+2018-03-29,Default Fund,ICEU_F&O,Client_Gross,USD,22763405023.67
+2018-03-29,Default Fund,ICEU_F&O,Client_Net,USD,6667101036.16
+2018-03-29,Default Fund,ICEU_F&O,Total,USD,35214576023.39
+2018-03-29,Default Fund,ICEU_CDS,House_Net,EUR,4840335564.63
+2018-03-29,Default Fund,ICEU_CDS,Client_Gross,EUR,1078285913.56
+2018-03-29,Default Fund,ICEU_CDS,Client_Net,EUR,0.00
+2018-03-29,Default Fund,ICEU_CDS,Total,EUR,5918621478.19

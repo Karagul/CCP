@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,4.4.3,4.4.6,4.4.7,4.4.10
+2018-03-31,Default fund,LME,PeakDayAmountInPast12Months,USD,672247039.22,15898.00,1090372993.71,15898.00
+2018-03-31,Default fund,LME,MeanAverageOverPrevious12Months,USD,451964201.57,15898.00,702304248.11,15898.00
+2018-03-31,Default fund,LPM,PeakDayAmountInPast12Months,USD,193457209.44,0.00,193971160.98,0.00
+2018-03-31,Default fund,LPM,MeanAverageOverPrevious12Months,USD,109624831.67,0.00,121773249.98,0.00

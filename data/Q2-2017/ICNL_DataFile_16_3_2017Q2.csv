@@ -1,0 +1,7 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,16_3_3,16_3_4
+2017-06-30,DefaultFund,ICNL_F&O,ON_1D,EUR,0.00,0.00
+2017-06-30,DefaultFund,ICNL_F&O,1D_1W,EUR,0.00,0.00
+2017-06-30,DefaultFund,ICNL_F&O,1W_1M,EUR,0.00,0.00
+2017-06-30,DefaultFund,ICNL_F&O,1M_1Y,EUR,0.00,0.00
+2017-06-30,DefaultFund,ICNL_F&O,1Y_2Y,EUR,0.00,0.00
+2017-06-30,DefaultFund,ICNL_F&O,2Y+,EUR,0.00,0.00

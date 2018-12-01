@@ -1,0 +1,8 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,System,Description,17_3_1
+2017-12-29,CCP,ICEU,MFT,DurationofFailure(HH:MI:SS),0:03:00
+2017-12-29,CCP,ICEU,ECS,DurationofFailure1(HH:MI:SS),0:03:00
+2017-12-29,CCP,ICEU,ECS,DurationofFailure2(HH:MI:SS),0:03:00
+2017-12-29,CCP,ICEU,ECS,DurationofFailure3(HH:MI:SS),0:06:00
+2017-12-29,CCP,ICEU,MQ,DurationofFailure(HH:MI:SS),0:15:00
+2017-12-29,CCP,ICEU,ACT,DurationofFailure(HH:MI:SS),0:00:00
+2017-12-29,CCP,ICEU,PTMS,DurationofFailure(HH:MI:SS),0:07:00

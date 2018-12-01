@@ -1,0 +1,268 @@
+Principle,Statement,,,,,
+4.1.1,"LMEC skin-in-the-game, revised upwards in November 2015 following increase in regulatory capital requirement. Consistent between Dec 2015, Mar 2016, Jun 2016 & Sept 2016. Increase of $200K in Dec-16 and unchanged for Mar-17",,,,,
+4.1.4,Total value of LMEC pre-funded default resources,,,,,
+4.1.5,No haircut applied to pre-funded default resources (USD Cash),,,,,
+4.1.7,LMEC skin-in-the-game. Replenished following participant default,,,,,
+4.1.8,"Interpreted as identical to 4.3.3 (minus CCP skin-in-the-game), whereby all pre-funded default resources excluding IM and retained VM are secured cash at commercial banks",,,,,
+4.1.9,"Replenishment equal to the value reported in 4.1.8, minus the defaulting contribution(s)",,,,,
+4.1.10,Equal to 2 CCP skin-in-the-game contributions (initial with a further replenishment),,,,,
+4.2.1,"Hypothetical capital (KCCP) [Art. 50c(1)(a), Regulation (EU) 648/2012], as of 31 Mar 17",,,,,
+4.3.3,"Outright purchase + reverse repo. Repo pre and post haircuts consistent with 6.2, whereby the held post-haircut value will be greater than the amount received by the CCP, whilst conversely non-cash pre and post haircut values will be less. Weighted DF haircut = 3.578%",,,,,
+4.3.15,Equal to 4.3.3,,,,,
+4.4.1,Cover 2,,,,,
+4.4.3,"Interpreted as Cover 1 Stress Testing results over 12 months from 01 April 16 (254 observations), including Collateral stresses",,,,,
+4.4.6,Interpreted as Backtesting results (clean P&L over IM) over 12 months from 01 April 2016 to 31 Mar 2017.,,,,,
+5.1.1,"Two links provided to current rates, the latter referencing LME Clear Collateral Haircuts, an online PDF
+
+Instruments and haircuts as at 31/03/2017
+
+GOLD 9.90%
+ALUMINIUM 7.00%
+COPPER 9.30%
+LEAD 13.70%
+NICKEL 12.90%
+TIN 10.70%
+ZINC 13.20%
+EUR 6.50%
+JPY 3.70%
+GBP 6.20%
+CNH 9.04%
+US 1 Y 0.45%
+US 3 Y 1.15%
+US 5 Y 2.20%
+US 7 Y 2.75%
+US 10 Y 3.05%
+US 15 Y 4.30%
+US 20 Y 5.70%
+US 30 Y 9.35%
+Germany 1 Y 0.25%
+Germany 3 Y 0.85%
+Germany 5 Y 1.40%
+Germany 7 Y 1.75%
+Germany 10 Y 2.80%
+Germany 15 Y 4.30%
+Germany 20 Y 6.30%
+Germany 30 Y 9.65%
+Japan 1 Y 2.00%
+Japan 3 Y 2.00%
+Japan 5 Y 2.00%
+Japan 7 Y 2.00%
+Japan 10 Y 2.00%
+Japan 15 Y 3.65%
+Japan 20 Y 6.00%
+UK 1 Y 0.35%
+UK 3 Y 0.90%
+UK 5 Y 1.70%
+UK 7 Y 2.10%
+UK 10 Y 2.65%
+UK 15 Y 4.25%
+UK 20 Y 5.55%
+UK 30 Y 8.05%
+France 1 Y 0.25%
+France 3 Y 1.20%
+France 5 Y 1.85%
+France 7 Y 2.40%
+France 10 Y 2.90%
+France 15 Y 4.95%
+France 20 Y 6.05%
+France 30 Y 9.80%
+Netherlands 1 Y 0.25%
+Netherlands 3 Y 1.00%
+Netherlands 5 Y 1.40%
+Netherlands 7 Y 1.80%
+Netherlands 10 Y 2.75%
+Netherlands 15 Y 4.25%
+Netherlands 20 Y 6.15%
+Netherlands 30 Y 9.55%
+Finland 1 Y 0.85%
+Finland 3 Y 0.95%
+Finland 5 Y 1.45%
+Finland 7 Y 1.90%
+Finland 10 Y 2.60%
+Finland 15 Y 7.25%
+Finland 20 Y 9.90%
+Finland 30 Y 13.90%",,,,,
+5.3.3,1000 one-day observations and 500 non overlapping two-day observations,,,,,
+5.3.4,32 risk factor breaches and 2 margin portfolio breaches. Number of days (so number of reported breaches) is 13. Note this is the same total as in Q4 16 as there were no further breaches in Q1 17.,,,,,
+6.1.1,"Total Initial Margin, excluding Additional Margin",,,,,
+6.2.1,"Unsecured EUR, JPY, USD @ ECB, BoJ or Fed, USD Equivalent",,,,,
+6.2.3,"Outright purchase + reverse repo, USD Equivalent. Includes $0.39bn outright. Weighted haircut = 3.303%",,,,,
+6.4.1,Header and key parameters disclosed,,,,,
+6.4.9,"No changes to SPAN algorithm since 22 Sept 2014, minor changes to derivation of model parameters",,,,,
+6.5.1.2,Once-a-day,,,,,
+6.5.1.3,9:45PM (EOD),,,,,
+6.5.2,Number of observations measured as the total number of portfolios multiplied by the total number of days in the lookback period,,,,,
+6.5.3,Achieved coverage level measured as the total number of breaches across all portfolios in the lookback period,,,,,
+6.6.1,"Final Cash payment of Variation Margin to CCP. Calculated VM (CVM which can be used to offset IM) is not included in this calculation. Cashflows are converted to USD equivalent, summed to account level and taking negative net amounts (payments to CCP)",,,,,
+6.7.1,"Maximum of figure quoted in 6.6.1, 63 observations. Third Wednesday",,,,,
+6.8.1,Maximum of total intraday margin calls (including cover distribution) over quarter,,,,,
+7.1.1,Cover 2,,,,,
+7.1.4,"Total Reverse Repo: $8,756,902,387
+- Reverse Repo Maturing on T: $7,006,902,387
+- Reverse Repo Maturing on T+1: $1,100,000,000
+- Reverse Repo Maturing on T+2: $450,000,000
+- Reverse Repo Maturing on T+5: $200,000,000",,,,,
+7.1.5,"Unsecured Cash on Account with Commercial Bank: $2,007,920.64",,,,,
+7.1.8,"Unencumbered assets: $49,921,054.50",,,,,
+7.1.9,Secured uncommitted lines of credit,,,,,
+7.1.11,"Significant intraday and end-of-day liquidity buffer, alongside limits on excess withdrawal, allow LMEC to release payments simultaneously without the need for prioritisation",,,,,
+7.2.1,"For the purpose of liquidity modelling and determining available liquid financial resources, LMEC does not assume any collateral is available for liquidation,  the following are therefore excluded:
+-The liquidation of any reverse repo investment collateral with counterparts included in the cover 2 ($550mn as at 31/3/2017 in 5 day stress, $1.575bn in 1 day cover 2 stress)
+-term reverse repo (with investment counterparts outside of cover 2), ($1.75bn as at 31/3/2017 in 5 day stress and 1 day stress). Per LMEC Liquidity modelling, reverse repo will be considered as a liquid financial resource on the day of maturity;
+-The liquidation of non-cash margin collateral from members included in the cover 2 ($65.6mn as at 31/3/2017 for both the 1 day test and 5 day test)",,,,,
+7.3.1,"Largest 1-day Liquidity Requirement from the Default of a Single Member and/or Investment Counterpart: $1.062bn
+Largest 5-day Liquidity Requirement from the Default of a Single Member and/or Investment Counterpart: $1.666bn",,,,,
+7.3.2,None – cover 2 always met,,,,,
+7.3.4,Based on the largest delivery payment over the previous 12 months,,,,,
+7.3.5,Considers both clearing members and investment counterparts,,,,,
+7.3.6,None – actual liquidity requirements always met under LMEC rules,,,,,
+7.3.7,None – actual liquidity requirements always met under LMEC rules,,,,,
+12.1.1,"DvP, DvD & PvP settlement mechanisms not applicable to LME Market",,,,,
+12.1.2,"DvP, DvD & PvP settlement mechanisms not applicable to LME Market",,,,,
+12.1.3,"DvP, DvD & PvP settlement mechanisms not applicable to LME Market",,,,,
+12.2.1,"DvP, DvD & PvP settlement mechanisms not applicable to LME Market",,,,,
+12.2.2,"DvP, DvD & PvP settlement mechanisms not applicable to LME Market",,,,,
+12.2.3,"DvP, DvD & PvP settlement mechanisms not applicable to LME Market",,,,,
+13.1.1,Provided ad-hoc following default - no defaults since launch (22 Sept 2014),,,,,
+13.1.2,Provided ad-hoc following default - no defaults since launch (22 Sept 2014),,,,,
+13.1.3.1,Provided ad-hoc following default - no defaults since launch (22 Sept 2014),,,,,
+13.1.3.2,Provided ad-hoc following default - no defaults since launch (22 Sept 2014),,,,,
+13.1.4,Provided ad-hoc following default - no defaults since launch (22 Sept 2014),,,,,
+14.1.1,"LME Clear currently has four ISA accounts, non-disclosure according to notes",,,,,
+16.1.1,To meet total margin requirements which may include variation margin called,,,,,
+16.2.1,"Including reverse repo, but excluding outright purchases",,,,,
+16.2.9,WAM: 3.43 Days,,,,,
+16.2.15,"3.90% invested directly in USD securities
+0% invested directly in EUR securities
+0% invested directly in GBP securities
+0% invested directly in JPY securities",,,,,
+16.2.16,"All Securities are FRNs with weekly fixes, US T-Bills and govt. guaranteed; The WAM of these securities is 309 days",,,,,
+16.2.17,99% 1-day VaR using a parametric approach (based on 2 year historical data). Underlying curve: 1W USD OIS [Source: Bloomberg]),,,,,
+16.2.18,"Limits per counterparty defined across 4 internal credit rating bands, based on concentration limits (as a percentage of total portfolio size). Max concentration limit range from 25% for AA- to AAA (CB1 & 2), to 15% for A- (CB4) and to 20% for A to A+ (CB3). BBB+ by exception with internal Risk Committee approval.",,,,,
+16.2.19,0 limit breaches,,,,,
+16.2.20,"Outright purchases only, no reverse repo. Refer to 16.2.10",,,,,
+16.3.1,N/A - no rehypothecation,,,,,
+16.3.2,N/A - no rehypothecation,,,,,
+16.3.3,N/A - no rehypothecation,,,,,
+16.3.4,N/A - no rehypothecation,,,,,
+17.1.1,Current operational availability target for LMEmercury,,,,,
+17.2.1,YTD clearing availability on LMEmercury,,,,,
+17.4.1,Instant failover between two data centers,,,,,
+18.1.2.4,"20 Investment Firm, 4 unclassified",,,,,
+19.1.3.1,N/A - client transactions not available,,,,,
+19.1.3.2,N/A - client transactions not available,,,,,
+19.1.4.1,N/A - client transactions not available,,,,,
+19.1.4.2,N/A - client transactions not available,,,,,
+20.7.2,N/A - no cross-margining,,,,,
+23.1.1,Quarterly average,,,,,
+23.1.2,"Quarterly average, USD equivalent - notional calculated by multiplying delta, closing price and tonnage",,,,,
+23.2.1,As of 31 March 2017,,,,,
+23.2.2,Commodities,,,,,
+23.2.3,"Forwards, Swaps, Options, TAPOs, Futures",,,,,
+23.2.4,"AA, AE, AH, AN, AS, AW, CA, CO, FM, MO, MX, NA, NI, PB, SC, SN, SR, ZS: underlying codes linked to contracts",,,,,
+23.3.1,Telephone includes OTC bring-ons and OTC take-offs,,,,,
+23.3.2,"Quarterly average, USD equivalent",,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

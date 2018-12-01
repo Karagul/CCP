@@ -1,0 +1,6 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,System,Description,17_3_1
+2017-09-29,DefaultFund,ICNL_F&O,ECS,DurationofFailure,0:00:00
+2017-09-29,DefaultFund,ICNL_F&O,PTMS,DurationofFailure,0:00:00
+2017-09-29,DefaultFund,ICNL_F&O,ACT,DurationofFailure,0:00:00
+2017-09-29,DefaultFund,ICNL_F&O,MQ,DurationofFailure,0:00:00
+2017-09-29,DefaultFund,ICNL_F&O,MFT,DurationofFailure,0:00:00

@@ -1,0 +1,10 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,6.1.1
+2018-06-30,CCP,LMEC_1,Client_Net,USD," 5,748,238,942 "
+2018-06-30,CCP,LMEC_1,House_Net,USD," 2,129,157,531 "
+2018-06-30,CCP,LMEC_1,Total,USD," 7,877,396,473 "
+2018-06-30,Default fund,LME,Client_Net,USD," 5,546,161,202 "
+2018-06-30,Default fund,LME,House_Net,USD," 2,000,716,031 "
+2018-06-30,Default fund,LME,Total,USD," 7,546,877,233 "
+2018-06-30,Default fund,LPM,Client_Net,USD," 202,077,740 "
+2018-06-30,Default fund,LPM,House_Net,USD," 128,441,500 "
+2018-06-30,Default fund,LPM,Total,USD," 330,519,240 "

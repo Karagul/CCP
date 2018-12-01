@@ -1,0 +1,8 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,System,Description,17_3_1
+2017-03-31,DefaultFund,ICNL_F&O,TRAM/MICS,DurationofFailure1(HH:MI:SS),01:00:00
+2017-03-31,DefaultFund,ICNL_F&O,TRAM,DurationofFailure2(HH:MI:SS),00:25:00
+2017-03-31,DefaultFund,ICNL_F&O,TRAM,DurationofFailure3(HH:MI:SS),00:40:00
+2017-03-31,DefaultFund,ICNL_F&O,TRAMGui,DurationofFailure4(HH:MI:SS),01:00:00
+2017-03-31,DefaultFund,ICNL_F&O,TRAM,DurationofFailure5(HH:MI:SS),00:15:00
+2017-03-31,DefaultFund,ICNL_F&O,SWIFT,DurationofFailure6(HH:MI:SS),00:30:00
+2017-03-31,DefaultFund,ICNL_F&O,TRAM/MICS,DurationofFailure7(HH:MI:SS),01:30:00

@@ -1,0 +1,3 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,23_3_1,23_3_2
+2017-06-30,DefaultFund,ICEU_F&O,ICE Clear Europe,USD,"ADV, OI and volume data is already produced for ICEU F&O contracts and can be found here: https://www.theice.com/marketdata/reports/176 . Additionally see attached a link to our product specifications and execution facilities at https://www.theice.com/products",NA
+2017-06-30,DefaultFund,ICEU_CDS,ICE Clear Europe,EUR,NA,NA

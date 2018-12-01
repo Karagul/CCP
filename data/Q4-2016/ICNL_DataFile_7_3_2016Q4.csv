@@ -1,0 +1,4 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,7_3_1,7_3_4,7_3_5
+2016-12-30,DefaultFund,ICNL_F&O,SameDayPayment_Total,EUR,45431231.00,18489142.00,45431231.00
+2016-12-30,DefaultFund,ICNL_F&O,IntraDayPayment_Total,EUR,NA,NA,NA
+2016-12-30,DefaultFund,ICNL_F&O,MultiDayPayment_Total,EUR,NA,NA,NA

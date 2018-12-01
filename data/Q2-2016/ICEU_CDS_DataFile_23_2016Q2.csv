@@ -1,0 +1,4 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,23.1.1,23.1.2,23.2.1,23.2.2,23.2.3,23.2.4
+2016-06-30,DefaultFund,ICEU_CDS,OTC,EUR,,7833037917.00,,CDS,Index,
+2016-06-30,DefaultFund,ICEU_CDS,OTC,EUR,,2024388416.34,,CDS,Single Name,
+2016-06-30,DefaultFund,ICEU_CDS,OTC,USD,,888576892.18,,CDS,Single Name,

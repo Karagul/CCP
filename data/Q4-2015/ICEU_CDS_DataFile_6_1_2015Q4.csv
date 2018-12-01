@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,6.1.1
+2015-12-31,DefaultFund,ICEU_CDS,House_Net,EUR,5783542269.00
+2015-12-31,DefaultFund,ICEU_CDS,Client_Gross,EUR,270072534.10
+2015-12-31,DefaultFund,ICEU_CDS,Client_Net,EUR,0.00
+2015-12-31,DefaultFund,ICEU_CDS,Total,EUR,6053614803.00

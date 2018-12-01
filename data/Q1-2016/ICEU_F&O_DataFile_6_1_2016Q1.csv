@@ -1,0 +1,5 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,6.1.1
+2016-03-31,DefaultFund,ICEU_F&O,House_Net,USD,8317558185.00
+2016-03-31,DefaultFund,ICEU_F&O,Client_Gross,USD,26858249906.00
+2016-03-31,DefaultFund,ICEU_F&O,Client_Net,USD,4973319459.00
+2016-03-31,DefaultFund,ICEU_F&O,Total,USD,40149127550.00

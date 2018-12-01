@@ -1,0 +1,7 @@
+ReportDate,ReportLevel,ReportLevelIdentifier,Description,Currency,16.3.3,16.3.4
+2015-12-31,DefaultFund,ICEU_CDS,ON_1D,EUR,0.00,0.00
+2015-12-31,DefaultFund,ICEU_CDS,1D_1W,EUR,0.00,0.00
+2015-12-31,DefaultFund,ICEU_CDS,1W_1M,EUR,0.00,0.00
+2015-12-31,DefaultFund,ICEU_CDS,1M_1Y,EUR,0.00,0.00
+2015-12-31,DefaultFund,ICEU_CDS,1Y_2Y,EUR,0.00,0.00
+2015-12-31,DefaultFund,ICEU_CDS,2Y+,EUR,0.00,0.00
